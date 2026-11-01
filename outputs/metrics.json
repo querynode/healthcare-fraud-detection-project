@@ -1,0 +1,18 @@
+{
+  "best_model": "HistGradientBoosting",
+  "threshold": 0.7233699668948015,
+  "test_roc_auc": 0.9563084748841857,
+  "test_pr_auc": 0.7464710520641982,
+  "test_f1": 0.6666666666666666,
+  "precision": 0.6422018348623854,
+  "recall": 0.693069306930693,
+  "confusion": {
+    "tn": 942,
+    "fp": 39,
+    "fn": 31,
+    "tp": 70
+  },
+  "n_providers": 5410,
+  "fraud_rate": 0.09353049907578559,
+  "n_features": 30
+}
